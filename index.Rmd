@@ -1,0 +1,54 @@
+---
+title: "Home Page"
+author: "Chelsea Harmon"
+date: 02/22/2022
+output: 
+  html_document:
+    includes:
+      after_body: footer.html
+      
+---
+
+<meta name="google-site-verification" content="wPwMCsfS33spjj0K8sfi7p19gqb-Zj8DyKzVJoYaPuU" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136620538-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-136620538-1');
+</script>
+
+```{r echo = F}
+# <img src="images/KatherineZee.jpeg" style="border:5px solid black; margin-right: 20px" align="right" width = "500">
+```
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<br>
+```{r pressure, echo=FALSE, out.width = '450px', out.extra='style="float:right; padding:40px"'}
+knitr::include_graphics("images/KatherineZee.jpeg")
+```
+
+<font size="4"> 
+\
+I am a developmental psychologist with expertise in neurscience, learning, early life stress/adversity, and statistical methods. I am presently a PhD candidate at Columbia University. 
+
+
+My resume is availabe [here](files/Harmon_Resume02.2022.pdf){target="_blank"}.
+My academic CV is available [here](files/CHELSEA_HARMON_CV5.2021.pdf){target="_blank"}.
+
+</font>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

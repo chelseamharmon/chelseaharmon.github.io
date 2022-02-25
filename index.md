@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Chelsea Harmon
 
 You can use the [editor on GitHub](https://github.com/chelseamharmon/chelseaharmon.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

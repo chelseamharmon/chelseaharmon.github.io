@@ -1,5 +1,11 @@
 ## Chelsea Harmon
 
+I am a developmental psychologist with expertise in neurscience, learning, early life stress/adversity, and statistical methods. I am presently a PhD candidate at Columbia University. 
+
+
+My resume is availabe [here](files/Harmon_Resume02.2022.pdf){target="_blank"}.
+My academic CV is available [here](files/CHELSEA_HARMON_CV5.2021.pdf){target="_blank"}.
+
 You can use the [editor on GitHub](https://github.com/chelseamharmon/chelseaharmon.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
